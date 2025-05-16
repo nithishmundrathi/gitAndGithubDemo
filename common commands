@@ -6,4 +6,4 @@ git commit -m "some message" //to commit all the changes to the local repository
 git commit -a -m "second commit" // to move the modified files directily to the local repository.
 git log             // get commit history
 git diff            // to get different changes between staged and unstaged files.
-vh
+vh  
