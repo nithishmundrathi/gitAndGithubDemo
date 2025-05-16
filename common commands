@@ -1,3 +1,5 @@
 git init            // to create a new repository in local machine.
 git init -b "main"  //to create a new repository in local machine with branch name as "main"
 git status          // to get details of commits to local repository and all untracked,staged flies status.
+git add <file or .> //to add the selcted files to staging area or all files.
+git commit -m "some message" //to commit all the changes to the local repository.
