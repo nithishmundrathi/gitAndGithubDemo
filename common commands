@@ -1,0 +1,3 @@
+git init            // to create a new repository in local machine.
+git init -b "main"  //to create a new repository in local machine with branch name as "main"
+git status          // to get details of commits to local repository and all untracked,staged flies status.
