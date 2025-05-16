@@ -9,5 +9,6 @@ git diff            // to get different changes between staged and unstaged file
 git clone http url  // to get the github remote repository into our local repository.
 git branch -M <branch name>  //to rename master branch.
 git remote add origin https://github.com/nithishmundrathi/gitAndGithubDemo.git  //to connect to remote repository.
-git push -u origin main  // push all local repository files to remote repository (Github).
+git push -u origin main  // push all local repository files to remote repository (Github).-u -> upstream for first time push
 git remote -v    // to verify the remote hubs
+git push            // regular push
