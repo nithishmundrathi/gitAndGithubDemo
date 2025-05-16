@@ -3,3 +3,6 @@ git init -b "main"  //to create a new repository in local machine with branch na
 git status          // to get details of commits to local repository and all untracked,staged flies status.
 git add <file or .> //to add the selcted files to staging area or all files.
 git commit -m "some message" //to commit all the changes to the local repository.
+git commit -a -m "second commit" // to move the modified files directily to the local repository.
+git log             // get commit history
+git diff            // to get different changes between staged and unstaged files.
